@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567812232 source:/home/santiago/Documentos/Programacion 2/TrabajoPractico1/funciones.c
+
+1567812883 source:/home/santiago/Documentos/Programacion 2/TrabajoPractico1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567811708 /home/santiago/Documentos/Programacion 2/TrabajoPractico1/funciones.h
+
